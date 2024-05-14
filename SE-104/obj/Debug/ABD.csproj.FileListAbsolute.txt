@@ -1,0 +1,31 @@
+C:\Users\HP VICTUS\Downloads\đồ án\ABD\bin\Debug\ABD.exe.config
+C:\Users\HP VICTUS\Downloads\đồ án\ABD\bin\Debug\ABD.exe
+C:\Users\HP VICTUS\Downloads\đồ án\ABD\bin\Debug\ABD.pdb
+C:\Users\HP VICTUS\Downloads\đồ án\ABD\obj\Debug\ABD.csproj.AssemblyReference.cache
+C:\Users\HP VICTUS\Downloads\đồ án\ABD\obj\Debug\ABD.Form1.resources
+C:\Users\HP VICTUS\Downloads\đồ án\ABD\obj\Debug\ABD.Properties.Resources.resources
+C:\Users\HP VICTUS\Downloads\đồ án\ABD\obj\Debug\ABD.csproj.GenerateResource.cache
+C:\Users\HP VICTUS\Downloads\đồ án\ABD\obj\Debug\ABD.csproj.CoreCompileInputs.cache
+C:\Users\HP VICTUS\Downloads\đồ án\ABD\obj\Debug\ABD.exe
+C:\Users\HP VICTUS\Downloads\đồ án\ABD\obj\Debug\ABD.pdb
+C:\Users\HP VICTUS\Downloads\đồ án\ABD\obj\Debug\ABD.frmDSSV.resources
+C:\Users\HP VICTUS\Downloads\đồ án\ABD\obj\Debug\ABD.frmSinhVien.resources
+C:\Users\LENOVO\Desktop\New folder\SE-104\bin\Debug\ABD.exe.config
+C:\Users\LENOVO\Desktop\New folder\SE-104\bin\Debug\ABD.exe
+C:\Users\LENOVO\Desktop\New folder\SE-104\bin\Debug\ABD.pdb
+C:\Users\LENOVO\Desktop\New folder\SE-104\obj\Debug\ABD.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\New folder\SE-104\obj\Debug\ABD.Form1.resources
+C:\Users\LENOVO\Desktop\New folder\SE-104\obj\Debug\ABD.frmDSSV.resources
+C:\Users\LENOVO\Desktop\New folder\SE-104\obj\Debug\ABD.frmSinhVien.resources
+C:\Users\LENOVO\Desktop\New folder\SE-104\obj\Debug\ABD.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\New folder\SE-104\obj\Debug\ABD.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\New folder\SE-104\obj\Debug\ABD.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\New folder\SE-104\obj\Debug\ABD.exe
+C:\Users\LENOVO\Desktop\New folder\SE-104\obj\Debug\ABD.pdb
+C:\Users\LENOVO\Desktop\New folder\SE-104\obj\Debug\ABD.frmDSGV.resources
+C:\Users\LENOVO\Desktop\New folder\SE-104\obj\Debug\ABD.frmGV.resources
+C:\Users\LENOVO\Desktop\New folder\SE-104\obj\Debug\ABD.frmDSMH.resources
+C:\Users\LENOVO\Desktop\New folder\SE-104\obj\Debug\ABD.frmMonHoc.resources
+C:\Users\LENOVO\Desktop\New folder\SE-104\obj\Debug\ABD.frmDSDiemThi.resources
+C:\Users\LENOVO\Desktop\New folder\SE-104\obj\Debug\ABD.frmMain.resources
+C:\Users\LENOVO\Desktop\New folder\SE-104\obj\Debug\ABD.frmWelcome.resources
