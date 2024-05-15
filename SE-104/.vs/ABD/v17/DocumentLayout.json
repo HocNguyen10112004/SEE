@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\New folder\\SE-104\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{868494BE-3A85-42DA-9DB2-6E9F376D4CD6}|ABD.csproj|c:\\users\\lenovo\\desktop\\new folder\\se-104\\frmlophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868494BE-3A85-42DA-9DB2-6E9F376D4CD6}|ABD.csproj|solutionrelative:frmlophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868494BE-3A85-42DA-9DB2-6E9F376D4CD6}|ABD.csproj|c:\\users\\lenovo\\desktop\\new folder\\se-104\\frmlophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{868494BE-3A85-42DA-9DB2-6E9F376D4CD6}|ABD.csproj|solutionrelative:frmlophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868494BE-3A85-42DA-9DB2-6E9F376D4CD6}|ABD.csproj|c:\\users\\lenovo\\desktop\\new folder\\se-104\\frmdslophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{868494BE-3A85-42DA-9DB2-6E9F376D4CD6}|ABD.csproj|solutionrelative:frmdslophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868494BE-3A85-42DA-9DB2-6E9F376D4CD6}|ABD.csproj|c:\\users\\lenovo\\desktop\\new folder\\se-104\\frmdslophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868494BE-3A85-42DA-9DB2-6E9F376D4CD6}|ABD.csproj|solutionrelative:frmdslophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868494BE-3A85-42DA-9DB2-6E9F376D4CD6}|ABD.csproj|c:\\users\\lenovo\\desktop\\new folder\\se-104\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{868494BE-3A85-42DA-9DB2-6E9F376D4CD6}|ABD.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868494BE-3A85-42DA-9DB2-6E9F376D4CD6}|ABD.csproj|c:\\users\\lenovo\\desktop\\new folder\\se-104\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868494BE-3A85-42DA-9DB2-6E9F376D4CD6}|ABD.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{868494BE-3A85-42DA-9DB2-6E9F376D4CD6}|ABD.csproj|c:\\users\\lenovo\\desktop\\new folder\\se-104\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{868494BE-3A85-42DA-9DB2-6E9F376D4CD6}|ABD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,11 +38,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLopHoc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder\\SE-104\\frmLopHoc.cs",
+              "RelativeDocumentMoniker": "frmLopHoc.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder\\SE-104\\frmLopHoc.cs [Design]",
+              "RelativeToolTip": "frmLopHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T00:08:04.814Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmDsLopHoc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder\\SE-104\\frmDsLopHoc.cs",
+              "RelativeDocumentMoniker": "frmDsLopHoc.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder\\SE-104\\frmDsLopHoc.cs [Design]",
+              "RelativeToolTip": "frmDsLopHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T00:12:50.082Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDsLopHoc.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder\\SE-104\\frmDsLopHoc.cs",
+              "RelativeDocumentMoniker": "frmDsLopHoc.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder\\SE-104\\frmDsLopHoc.cs",
+              "RelativeToolTip": "frmDsLopHoc.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwDAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T00:12:57.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "frmLopHoc.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder\\SE-104\\frmLopHoc.cs",
+              "RelativeDocumentMoniker": "frmLopHoc.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder\\SE-104\\frmLopHoc.cs",
+              "RelativeToolTip": "frmLopHoc.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAuwHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T00:10:01.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder\\SE-104\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder\\SE-104\\frmMain.cs",
+              "RelativeToolTip": "frmMain.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAmwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T23:48:19.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder\\SE-104\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder\\SE-104\\frmMain.cs [Design]",
+              "RelativeToolTip": "frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T23:47:05.192Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder\\SE-104\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

@@ -40,11 +40,7 @@ namespace ABD
             AddForm(f);
         }
 
-        private void diemThiToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            frmDSDiemThi f=new frmDSDiemThi();
-            AddForm(f); 
-        }
+        
 
         private void đổiMậtKhẩuToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -67,6 +63,12 @@ namespace ABD
             this.Text = f.Text;
             this.pnlContent.Controls.Add(f);
             f.Show();
+        }
+
+        private void lopHocToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmDsLopHoc f=new frmDsLopHoc();   
+            AddForm(f);
         }
     }
 }

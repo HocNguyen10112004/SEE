@@ -40,7 +40,7 @@
             // 
             this.dgvDSMH.AllowUserToAddRows = false;
             this.dgvDSMH.AllowUserToDeleteRows = false;
-            this.dgvDSMH.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.DisplayedCells;
+            this.dgvDSMH.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgvDSMH.BackgroundColor = System.Drawing.SystemColors.ButtonShadow;
             this.dgvDSMH.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvDSMH.Dock = System.Windows.Forms.DockStyle.Bottom;

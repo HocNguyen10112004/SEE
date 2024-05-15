@@ -29,3 +29,5 @@ C:\Users\LENOVO\Desktop\New folder\SE-104\obj\Debug\ABD.frmMonHoc.resources
 C:\Users\LENOVO\Desktop\New folder\SE-104\obj\Debug\ABD.frmDSDiemThi.resources
 C:\Users\LENOVO\Desktop\New folder\SE-104\obj\Debug\ABD.frmMain.resources
 C:\Users\LENOVO\Desktop\New folder\SE-104\obj\Debug\ABD.frmWelcome.resources
+C:\Users\LENOVO\Desktop\New folder\SE-104\obj\Debug\ABD.frmDsLopHoc.resources
+C:\Users\LENOVO\Desktop\New folder\SE-104\obj\Debug\ABD.frmLopHoc.resources
